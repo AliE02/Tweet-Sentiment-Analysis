@@ -28,7 +28,7 @@ The project is structured as follows:
 ## Quick start
 We have implemented 4 different Classifiers that can be used for inference, if you just want to quickly check the results of the models, please follow the instructions below.
 1. Clone the repository
-2. Download the `Models/` folder from the following link and place it at the root of the project [here](https://drive.google.com/drive/folders/1YxYE67JtN8F41HPGZvOdhdglz1nK1U87?usp=sharing)\
+2. Download the `Models/` folder from the following link and place it at the root of the project here
 **Please Make Sure that the Models folders is at the root of the project and do not change the name of the folders inside as the scripts depends on that specific structure**
 4. If you don't have the requirements installed, the cells in notebook QuickStart.ipynb will install them for you.
 3. Then you simply used the following command to make predictions on the test set:
